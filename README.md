@@ -1,2 +1,3 @@
 # my_problems
-Most of the coding problems I have solved
+Most of the programming problems I have solved
+Languages used include C,C++,Java
